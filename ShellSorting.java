@@ -1,5 +1,3 @@
-package cnth;
-
 import java.util.Arrays;
 
 public class ShellSorting {
